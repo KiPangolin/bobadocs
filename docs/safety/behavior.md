@@ -8,7 +8,6 @@ A key aspect of safety in the workspace is developing good habits and practices.
 * Always have somebody else help you when lifting the robot. Never lift it by yourself
 * Lift the robot by the frame, never the bumpers. Doing so not only damages the bumpers, but also increases the chance of the attachments failing, causing the robot to fall
 * When turning to robot on to test functions, be sure to inform all teammates around you, as well as ensuring that all hands are off the robot
-* If testing the drivetrain and other mobility function of the robot, make sure that it is rested on blocks with the wheels raised from the work surface
 * Ensure that any sharp edges or corners are filed down to prevent injury when interacting/working on the robot
 * When driving the robot, make sure that the space around the robot is clear and that everyone knows it is on
     * Only qualified members or members who receive permission to may drive the robot
